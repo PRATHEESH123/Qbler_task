@@ -1,0 +1,1 @@
+web: gunicorn qbler_tech.wsgi --log-file -
